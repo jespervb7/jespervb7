@@ -2,9 +2,6 @@
 
 ###
 <p align="center"><img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/Profile_picture.jpg"></p>
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/Profile_picture.jpg"  />
-</div>
 
 ###
 
