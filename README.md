@@ -1,10 +1,5 @@
 <h2 align="center">Hello there 🧔</h2>
 
-###
-<p align="center"><img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/Profile_picture.jpg"></p>
-
-###
-
 <h3 align="left">Contact me!</h3>
 
 <div align="center">
