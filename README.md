@@ -1,4 +1,7 @@
-<h2 align="center">Hello there 🧔</h2>
+<h1 align="center">Hello there 🧔, I am Jesper van Beemdelust</h2>
+<h3 align="center">An aspiring Data Engineer, currently working as a Data Analyst</h3>
+
+<hr>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jespervanbeemdelust/" target="_blank">
