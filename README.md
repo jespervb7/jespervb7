@@ -77,9 +77,12 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark" height="220" alt="streak graph"  />
+</div>
 
 ###
+
 <p align="left">add a footnote with a link to issues. So that people can submit if icons don't work or anything</p>
 
 ###
