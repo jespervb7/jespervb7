@@ -77,6 +77,9 @@
 
 ###
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark)
+
+###
 <p align="left">add a footnote with a link to issues. So that people can submit if icons don't work or anything</p>
 
 ###
