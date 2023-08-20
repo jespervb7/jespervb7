@@ -1,7 +1,6 @@
-<h1 align="center">Hello there 🧔, I am Jesper van Beemdelust</h2>
-<h3 align="center">An aspiring Data Engineer, currently working as a Data Analyst</h3>
+###
 
-<hr>
+<h1 align="center">Hello there 🧔, I am Jesper van Beemdelust</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jespervanbeemdelust/" target="_blank">
@@ -17,6 +16,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
+
+###
+<h3 align="center">An aspiring Data Engineer, currently working as a Data Analyst</h3>
+
+<hr>
 
 ###
 
@@ -92,18 +96,16 @@
   <img src="https://streak-stats.demolab.com?user=jespervb7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width = "600" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark" height="220" width = "600" alt="streak graph"  />
 </div>
 
 ###
 
-<p align="left">add a footnote with a link to issues. So that people can submit if icons don't work or anything</p>
+<h3 align="left">⚠️   Report an issue</h3>
 
 ###
-
+<p align="left">Found an issue? Please open an issue here and I will take a look at it!</p>
 
 <!--
 **jespervb7/jespervb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
