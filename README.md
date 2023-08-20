@@ -107,4 +107,7 @@
 <h3 align="left">⚠️   Report an issue</h3>
 
 ###
-<p align="left">Found an issue? Please open an issue here and I will take a look at it!</p>
+
+<p align="left">
+  Found an issue? Please <a href="https://github.com/jespervb7/jespervb7/issues">open an issue here</a> and I will take a look at it!
+</p>
