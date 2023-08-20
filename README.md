@@ -1,11 +1,3 @@
-<h2 align="center">Hello there 🧔</h2>
-
-###
-
-<div align="center">
-  <img height="150" src="https://1drv.ms/i/s!AusaNF7FPNl6wy3jS4lIbC7FmJxX?e=Rro9TD"  />
-</div>
-
 ###
 
 <div align="center">
@@ -25,19 +17,26 @@
 
 ###
 
+<h1 align="center">Hello there 🧔, I am Jesper van Beemdelust</h2>
+
+###
+<h3 align="center">An aspiring Data Engineer, currently working as a Data Analyst</h3>
+
+<hr>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">My journey began as an athlete with the Netherlands U21 Canoe Polo team from 2015 to 2018, where I learned valuable teamwork skills. After that, I played for another year before shifting my focus. The workplace started to intrigue me, and I aspired to establish a professional career. Holding high personal standards has driven me both as an athlete and now in my professional pursuits.
 
-###
+My initial fascination with automating tasks using Excel and gaining insights led me to delve into the field of data analytics. During my time at CE-Repair, I got introduced to these concepts and began exploring further. I turned to platforms like YouTube to learn about building dashboards in Excel and even Power BI, which marked my first real encounter with Data Analytics. This newfound interest prompted me to pursue a short program in Business Intelligence (BI) at NCOI, laying the foundation for my current pursuit of a Data Science bachelor's degree at IU.
 
-<h3 align="left">🎓 Certifications</h3>
+At NCOI, I also got a glimpse into Data Engineering, which strangely appealed to me. Creating dashboards and constructing data pipelines intrigued me – I've always enjoyed building things. While I might also find joy in becoming a Software Engineer someday, my current goal is to eventually become a Data Engineer.
 
-###
-
-<p align="left">- Python certifications<br>- Power BI certification<br>- SAS certification</p>
+However, this shift in focus doesn't mean I've abandoned my aspiration to excel as a top-notch Data Analyst. I believe that excelling in this role will significantly benefit my future as a Data Engineer. Understanding data from the perspective of stakeholders and end-users is crucial, after all.</p>
 
 ###
 
@@ -59,40 +58,50 @@
 
 ###
 
+<h3 align="left">🎓 Certifications</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.credly.com/badges/f22b7497-08fa-4373-97be-3dce171641dd/linked_in_profile" target="_blank">
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PL-300.png" height="200" alt="PL-300 badge" />
+    </a>
+  <a href="https://www.credly.com/badges/ec558110-9cc4-43bf-84a1-4f0ef6642284/linked_in_profile" target="_blank">
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PCEP.png" height="200" alt="PCEP badge" />
+    </a>
+ <a href="https://www.credly.com/badges/38e68091-d502-48bf-a6a6-5cf408dcd76e/linked_in_profile" target="_blank">
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/SAS Base.png" height="200" alt="SAS badge" />
+    </a>
+</div>
+
+<!--###
+
 <h3 align="left">📑 Projects</h3>
 
 ###
 
 <p align="left">Add the following:<br><br><br>- Screenshots of dashboards perhaps?<br>- SQL interview practice repo<br>- Project dashboard. Shows all my projects with related skills.</p>
-
+-->
 ###
 
 <h3 align="left">🔥   My Github Stats</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jespervb7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=jespervb7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width = "600" alt="streak graph"  />
+</div>
+
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark" height="220" width = "600" alt="streak graph"  />
 </div>
 
 ###
 
-<p align="left">add a footnote with a link to issues. So that people can submit if icons don't work or anything</p>
+<h3 align="left">⚠️   Report an issue</h3>
 
 ###
 
-
-<!--
-**jespervb7/jespervb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Found an issue? Please <a href="https://github.com/jespervb7/jespervb7/issues">open an issue here</a> and I will take a look at it!
+</p>
