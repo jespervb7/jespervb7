@@ -45,15 +45,17 @@ However, this shift in focus doesn't mean I've abandoned my aspiration to excel 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/SQL.png" height="40" alt="SQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Python.png" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Power BI.png" height="40" alt="Power BI logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/GIT.png" height="40" alt="Git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Azure.png" height="40" alt="Azure logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/SAS Base.png" height="40" alt="SAS logo"  />
 </div>
 
 ###
@@ -62,7 +64,7 @@ However, this shift in focus doesn't mean I've abandoned my aspiration to excel 
 
 ###
 
-<p>Click the icons to verify the certifications</p>
+<p align="left"><strong>Click the icons to verify the certifications</strong></p>
 
 <div align="left">
   <a href="https://www.credly.com/badges/f22b7497-08fa-4373-97be-3dce171641dd/linked_in_profile" target="_blank">
