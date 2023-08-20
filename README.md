@@ -30,7 +30,10 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">From my days as an athlete with the Netherlands U21 Canoe Polo team from 2015 to 2018. I learned to be a real team player. I did end up playing for another year before setting my sights onto something else. There was more and more attraction coming to the workplace and I decided I wanted to make a real professional career. I always have had high standards for myself, which has pushed me to be an athlete and now in my professional career. <br>
+It all started out with a small interest in automating things with Excel and providing insights, during my work at CE-Repair I got introduced to it and slowly it started expanding on me. I ended up going to Youtube and findings interesting things. Such as building dashboards in Excel, but also Power BI! That's how I got my first real introduction to Data Analytics. It sparked such an interest in me that I 
+
+to my current pursuit as a Data Analyst and burgeoning interest in Data Engineering since 2022, my journey has been one of transformation. Fueled by a passion for data and driven by a desire to uncover insights and create meaningful structures, I am dedicated to upskilling in the realms of data analysis and engineering. Whether crafting insightful dashboards or constructing efficient data pipelines, my enthusiasm lies in the power of data to shape understanding and build remarkable solutions.</p>
 
 
 ###
@@ -83,11 +86,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=jespervb7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width = "600" alt="streak graph"  />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark" height="220" width = "600" alt="streak graph"  />
 </div>
 
