@@ -55,7 +55,9 @@ However, this shift in focus doesn't mean I've abandoned my aspiration to excel 
   <img width="12" />
   <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Azure.png" height="40" alt="Azure logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/SAS Base.png" height="40" alt="SAS logo"  />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Excel.png" height="40" alt="Excel logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/SAS Icon.png" height="40" alt="SAS logo"  />
 </div>
 
 ###
