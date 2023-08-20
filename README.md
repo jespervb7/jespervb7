@@ -80,14 +80,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-###
+<!--###
 
 <h3 align="left">📑 Projects</h3>
 
 ###
 
 <p align="left">Add the following:<br><br><br>- Screenshots of dashboards perhaps?<br>- SQL interview practice repo<br>- Project dashboard. Shows all my projects with related skills.</p>
-
+-->
 ###
 
 <h3 align="left">🔥   My Github Stats</h3>
@@ -108,18 +108,3 @@
 
 ###
 <p align="left">Found an issue? Please open an issue here and I will take a look at it!</p>
-
-<!--
-**jespervb7/jespervb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
