@@ -35,7 +35,7 @@
 <div align="left">
   <div style="display: flex; align-items: center;">
     <a href="https://www.credly.com/badges/f22b7497-08fa-4373-97be-3dce171641dd/linked_in_profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PL-300.png" height="40" alt="PL-300 badge" />
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PL-300.png" height="80" alt="PL-300 badge" />
     </a>
     <span style="margin-left: 10px;">Microsoft Certified: Power BI Data Analyst Associate - PL-300</span>
   </div>
