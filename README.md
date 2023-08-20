@@ -30,10 +30,13 @@
 
 ###
 
-<p align="left">From my days as an athlete with the Netherlands U21 Canoe Polo team from 2015 to 2018. I learned to be a real team player. I did end up playing for another year before setting my sights onto something else. There was more and more attraction coming to the workplace and I decided I wanted to make a real professional career. I always have had high standards for myself, which has pushed me to be an athlete and now in my professional career. <br>
-It all started out with a small interest in automating things with Excel and providing insights, during my work at CE-Repair I got introduced to it and slowly it started expanding on me. I ended up going to Youtube and findings interesting things. Such as building dashboards in Excel, but also Power BI! That's how I got my first real introduction to Data Analytics. It sparked such an interest in me that I 
+<p align="left">My journey began as an athlete with the Netherlands U21 Canoe Polo team from 2015 to 2018, where I learned valuable teamwork skills. After that, I played for another year before shifting my focus. The workplace started to intrigue me, and I aspired to establish a professional career. Holding high personal standards has driven me both as an athlete and now in my professional pursuits.
+<br>
+My initial fascination with automating tasks using Excel and gaining insights led me to delve into the field of data analytics. During my time at CE-Repair, I got introduced to these concepts and began exploring further. I turned to platforms like YouTube to learn about building dashboards in Excel and even Power BI, which marked my first real encounter with Data Analytics. This newfound interest prompted me to pursue a short program in Business Intelligence (BI) at NCOI, laying the foundation for my current pursuit of a Data Science bachelor's degree at IU.
 
-to my current pursuit as a Data Analyst and burgeoning interest in Data Engineering since 2022, my journey has been one of transformation. Fueled by a passion for data and driven by a desire to uncover insights and create meaningful structures, I am dedicated to upskilling in the realms of data analysis and engineering. Whether crafting insightful dashboards or constructing efficient data pipelines, my enthusiasm lies in the power of data to shape understanding and build remarkable solutions.</p>
+At NCOI, I also got a glimpse into Data Engineering, which strangely appealed to me. Creating dashboards and constructing data pipelines intrigued me – I've always enjoyed building things. While I might also find joy in becoming a Software Engineer someday, my current goal is to eventually become a Data Engineer.
+
+However, this shift in focus doesn't mean I've abandoned my aspiration to excel as a top-notch Data Analyst. I believe that excelling in this role will significantly benefit my future as a Data Engineer. Understanding data from the perspective of stakeholders and end-users is crucial, after all.</p>
 
 
 ###
