@@ -1,7 +1,5 @@
 ###
 
-<h1 align="center">Hello there 🧔, I am Jesper van Beemdelust</h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jespervanbeemdelust/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
@@ -16,6 +14,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="center">Hello there 🧔, I am Jesper van Beemdelust</h2>
 
 ###
 <h3 align="center">An aspiring Data Engineer, currently working as a Data Analyst</h3>
