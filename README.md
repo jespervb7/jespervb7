@@ -95,7 +95,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark" height="220" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark" height="180" alt="streak graph"  />
 </div>
 
 ###
