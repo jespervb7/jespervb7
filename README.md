@@ -59,38 +59,14 @@
 
 <div align="left">
   <a href="https://www.credly.com/badges/f22b7497-08fa-4373-97be-3dce171641dd/linked_in_profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PL-300.png" height="120" alt="PL-300 badge" />
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PL-300.png" height="160" alt="PL-300 badge" />
     </a>
   <a href="https://www.credly.com/badges/ec558110-9cc4-43bf-84a1-4f0ef6642284/linked_in_profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PCEP.png" height="120" alt="PCEP badge" />
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PCEP.png" height="160" alt="PCEP badge" />
     </a>
  <a href="https://www.credly.com/badges/38e68091-d502-48bf-a6a6-5cf408dcd76e/linked_in_profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/SAS Base.png" height="120" alt="SAS badge" />
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/SAS Base.png" height="160" alt="SAS badge" />
     </a>
-</div>
-
-<div align="left">
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.credly.com/badges/f22b7497-08fa-4373-97be-3dce171641dd/linked_in_profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PL-300.png" height="120" alt="PL-300 badge" />
-    </a>
-  </div>
-</div>
-
-<div align="left">
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.credly.com/badges/ec558110-9cc4-43bf-84a1-4f0ef6642284/linked_in_profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/PCEP.png" height="120" alt="PCEP badge" />
-    </a>
-  </div>
-</div>
-
-<div align="left">
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.credly.com/badges/38e68091-d502-48bf-a6a6-5cf408dcd76e/linked_in_profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/first_development/Assets/SAS Base.png" height="120" alt="SAS badge" />
-    </a>
-  </div>
 </div>
 
 <!--###
