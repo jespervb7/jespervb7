@@ -56,8 +56,6 @@
   </div>
 </div>
 
-<p align="left">- Python certifications<br>- Power BI certification<br>- SAS certification</p>
-
 ###
 
 <h3 align="left">🛠 Skillset</h3>
