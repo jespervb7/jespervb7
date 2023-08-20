@@ -94,11 +94,11 @@ However, this shift in focus doesn't mean I've abandoned my aspiration to excel 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=jespervb7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width = "600" alt="streak graph"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jespervb7&theme=github_dark" height="220" width = "600" alt="streak graph"  />
 </div>
 
