@@ -2,19 +2,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jespervanbeemdelust/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Linkedin.png" width="50" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Linkedin.png" width="50" height="50" alt="linkedin logo"  />
   </a>
   <a href="jespervanbeemdelust@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Outlook.png" width="50" height="25" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Outlook.png" width="50" height="50" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://medium.com/@jeppakanopolo" target="_blank">
-    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Medium.png" width="50" height="25" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Medium.png" width="50" height="50" alt="medium logo"  />
   </a>
   <a href="https://stackoverflow.com/users/19345865/jesper-van-beemdelust" target="_blank">
-    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Stackoverflow.png" width="50" height="25" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Stackoverflow.png" width="50" height="50" alt="stackoverflow logo"  />
   </a>
   <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Resume.png" width="50" height="25" alt="Resume icon"  />
+    <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Resume.png" width="50" height="50" alt="Resume icon"  />
   </a>
 </div>
 
