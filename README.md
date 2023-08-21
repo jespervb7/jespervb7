@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jespervanbeemdelust/" target="_blank">
     <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Linkedin.png" width="50" height="50" alt="linkedin logo"  />
   </a>
-  <a href="jespervanbeemdelust@hotmail.com" target="_blank">
+  <a href="mailto:jespervanbeemdelust@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/Outlook.png" width="50" height="50" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://medium.com/@jeppakanopolo" target="_blank">
