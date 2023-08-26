@@ -29,20 +29,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">My journey began as an athlete with the Netherlands U21 Canoe Polo team from 2015 to 2018, where I learned valuable teamwork skills. After that, I played for another year before shifting my focus. The workplace started to intrigue me, and I aspired to establish a professional career. Holding high personal standards has driven me both as an athlete and now in my professional pursuits.
-
-My initial fascination with automating tasks using Excel and gaining insights led me to delve into the field of data analytics. During my time at CE-Repair, I got introduced to these concepts and began exploring further. I turned to platforms like YouTube to learn about building dashboards in Excel and even Power BI, which marked my first real encounter with Data Analytics. This newfound interest prompted me to pursue a short program in Business Intelligence (BI) at NCOI, laying the foundation for my current pursuit of a Data Science bachelor's degree at IU.
-
-At NCOI, I also got a glimpse into Data Engineering, which strangely appealed to me. Creating dashboards and constructing data pipelines intrigued me – I've always enjoyed building things. While I might also find joy in becoming a Software Engineer someday, my current goal is to eventually become a Data Engineer.
-
-However, this shift in focus doesn't mean I've abandoned my aspiration to excel as a top-notch Data Analyst. I believe that excelling in this role will significantly benefit my future as a Data Engineer. Understanding data from the perspective of stakeholders and end-users is crucial, after all.</p>
-
-###
-
 <h3 align="left">🛠 Skillset</h3>
 
 ###
@@ -82,6 +68,20 @@ However, this shift in focus doesn't mean I've abandoned my aspiration to excel 
       <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/SAS Base.png" height="200" alt="SAS badge" />
     </a>
 </div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">My journey began as an athlete with the Netherlands U21 Canoe Polo team from 2015 to 2018, where I learned valuable teamwork skills. After that, I played for another year before shifting my focus. The workplace started to intrigue me, and I aspired to establish a professional career. Holding high personal standards has driven me both as an athlete and now in my professional pursuits.
+
+My initial fascination with automating tasks using Excel and gaining insights led me to delve into the field of data analytics. During my time at CE-Repair, I got introduced to these concepts and began exploring further. I turned to platforms like YouTube to learn about building dashboards in Excel and even Power BI, which marked my first real encounter with Data Analytics. This newfound interest prompted me to pursue a short program in Business Intelligence (BI) at NCOI, laying the foundation for my current pursuit of a Data Science bachelor's degree at IU.
+
+At NCOI, I also got a glimpse into Data Engineering, which strangely appealed to me. Creating dashboards and constructing data pipelines intrigued me – I've always enjoyed building things. While I might also find joy in becoming a Software Engineer someday, my current goal is to eventually become a Data Engineer.
+
+However, this shift in focus doesn't mean I've abandoned my aspiration to excel as a top-notch Data Analyst. I believe that excelling in this role will significantly benefit my future as a Data Engineer. Understanding data from the perspective of stakeholders and end-users is crucial, after all.</p>
 
 <!--###
 
