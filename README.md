@@ -72,6 +72,9 @@ However, this shift in focus doesn't mean I've abandoned my aspiration to excel 
 <p align="left"><strong>Click the icons to verify the certifications</strong></p>
 
 <div align="left">
+   <a href="https://www.credly.com/badges/f22b7497-08fa-4373-97be-3dce171641dd/linked_in_profile" target="_blank">
+      <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/DP-600.png" height="200" alt="PL-300 badge" />
+    </a>
   <a href="https://www.credly.com/badges/f22b7497-08fa-4373-97be-3dce171641dd/linked_in_profile" target="_blank">
       <img src="https://raw.githubusercontent.com/jespervb7/jespervb7/main/Assets/PL-300.png" height="200" alt="PL-300 badge" />
     </a>
